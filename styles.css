@@ -10,10 +10,7 @@ body {
 section,  .header-nav{
   margin: 0 120px; /* Add 128px horizontal margin */
 }
-.container{
-    max-width: 100%;
-    overflow: hidden;
-}
+
   
 header{
   position: sticky;
@@ -121,7 +118,7 @@ a:hover{
     display: flex;
     gap: 1.5rem;
     flex: 1;
-    padding: 1rem;
+  
     width: 100%;
     margin: 0 auto;
   }
