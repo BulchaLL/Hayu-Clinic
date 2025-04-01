@@ -10,6 +10,9 @@ body {
 section,  .header-nav{
   margin: 0 120px; /* Add 128px horizontal margin */
 }
+.containerr {
+    overflow: hidden;
+}
 
 header{
   position: sticky;
