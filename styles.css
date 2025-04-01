@@ -4,10 +4,15 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    overflow-x: hidden;
   }
   /* General Styles */
 section,  .header-nav{
   margin: 0 120px; /* Add 128px horizontal margin */
+}
+.container{
+    max-width: 100%;
+    overflow: hidden;
 }
   
 header{
